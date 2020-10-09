@@ -1,6 +1,7 @@
 """
 This is just code for the introduction to Python.
 It also won't be used anywhere else in the book.
+Grus, Joel. Data Science do Zero: Primeiras Regras com o Python. - Capítulo 02
 """
 # type: ignore
 
