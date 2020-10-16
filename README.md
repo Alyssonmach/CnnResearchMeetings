@@ -5,7 +5,8 @@
 
 |**Semana**|**Conteúdos da Semana**|
 |:---------|:----------------------|
-|**Semana 01**: 18/09/2020|- Apresentação da metodologia e da equipe|
-|**Semana 02**: [25/09/2020](https://github.com/Alyssonmach/presentations-rnr-research-project/tree/master/Semana%2002%20-%2025-09-2020)|- Apresentação Aprendizagem de máquina (**ML**, **RNA**, **RNC**)|
-|**Semana 03**: [02/10/2020](https://github.com/Alyssonmach/presentations-rnr-research-project/tree/master/Semana%2003%20-%2002-10-2020)|- Introdução a Redes Neurais Artificiais|
-|**Semana 04**: [09/10/2020](https://github.com/Alyssonmach/presentations-rnr-research-project/tree/master/Semana%2004%20-%2009-10-2020)| - Funções de Custo e Regressão Linear|
+|**Semana 01**: 18/09/2020|Apresentação da metodologia e da equipe|
+|**Semana 02**: [25/09/2020](https://github.com/Alyssonmach/presentations-rnr-research-project/tree/master/Semana%2002%20-%2025-09-2020)|Apresentação Aprendizagem de máquina (**ML**, **RNA**, **RNC**)|
+|**Semana 03**: [02/10/2020](https://github.com/Alyssonmach/presentations-rnr-research-project/tree/master/Semana%2003%20-%2002-10-2020)|Introdução a Redes Neurais Artificiais|
+|**Semana 04**: [09/10/2020](https://github.com/Alyssonmach/presentations-rnr-research-project/tree/master/Semana%2004%20-%2009-10-2020)|Funções de Custo e Regressão Linear|
+|**Semana 05**: [16/10/2020](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2005%20-%2016-10-2020)|Assuntos da Semana 01 e Semana 02 do Curso de Machine Learning (Andrew Ng's)|
