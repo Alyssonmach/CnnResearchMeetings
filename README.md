@@ -1,7 +1,7 @@
 # presentations-rnr-research-project
 #### Presentations made for the research project meetings.
  
-![image-logo](https://user-images.githubusercontent.com/58775072/95529901-a90d9380-09b2-11eb-88bc-2aeffc803c95.png)
+![image-logo](https://user-images.githubusercontent.com/58775072/96810328-ec73f300-13f1-11eb-802d-96df74d12560.jpg)
 
 ### Semana 01 (18/09/2020)
 
