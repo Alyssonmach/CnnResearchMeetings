@@ -17,13 +17,15 @@
 
 ### Semana 04 [(09/10/2020)](https://github.com/Alyssonmach/presentations-rnr-research-project/tree/master/Semana%2004%20-%2009-10-2020)
 
-- **Funções de Custo** e **Regressão Linear**;
+- **Funções de Custo**;
+- **Regressão Linear**;
 
 ### Semana 05 [(16/10/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2005%20-%2016-10-2020)
 
-- **Regressão Linear** e **Regressão Linear Múltipla**;
+- **Regressão Linear**;
+- **Regressão Linear Múltipla**;
 
 ### Semana 06 [(23/10/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2006%20-%2023-10-2020)
 
 - **Regressão Logística** para problemas de **Classificação**;
-- Regularizador em **Regressão Logística** (evitando **overfitting**);
+- Regularizador em **Regressão Logística**;
