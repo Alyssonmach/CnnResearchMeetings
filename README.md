@@ -23,7 +23,7 @@
 
 - **Regressão Linear** e **Regressão Linear Múltipla**;
 
-### Semana 06 (23/10/2020)
+### Semana 06 [(23/10/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2006%20-%2023-10-2020)
 
 - **Regressão Logística** para problemas de **Classificação**;
-- Usando Regressão Logística para **Reconhecimento de Dígitos Escritos a Mão**;
+- Regularizador em **Regressão Logística** (evitando **overfitting**);
