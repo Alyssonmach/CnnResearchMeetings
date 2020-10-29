@@ -29,3 +29,10 @@
 
 - **Regressão Logística** para problemas de **Classificação**;
 - Regularizador em **Regressão Logística**;
+
+### Semana 07 [(29/10/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2006%20-%2023-10-2020)
+
+- Introdução ao **modelo de Redes Neurais Artificiais**;
+- Implementação de **funções lógicas** através de Redes Neurais Artificiais;
+- Ideias de **configurações** das Redes Neurais Artificiais;
+- Criação de um **GitBook** para anotações dos embasamentos teóricos;
