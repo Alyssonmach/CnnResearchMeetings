@@ -34,5 +34,5 @@
 
 - Introdução ao **modelo de Redes Neurais Artificiais**;
 - Implementação de **funções lógicas** através de Redes Neurais Artificiais;
+- Noção inicial sobre a **arquitetura** e **funcionamento** de Redes Neurais Artificiais;
 - Ideias de **configurações** das Redes Neurais Artificiais;
-- Criação de um **GitBook** para anotações dos embasamentos teóricos;
