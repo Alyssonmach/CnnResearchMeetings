@@ -37,7 +37,7 @@
 - Noção inicial sobre a **arquitetura** e **funcionamento** de Redes Neurais Artificiais;
 - Ideias de **configurações** das Redes Neurais Artificiais;
 
-### Semana 08 [(06/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2007%20-%2030-10-2020) - Síncrono
+### Semana 08 [(06/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2008%20-%2005-11-2020) - Síncrono
 
 - Implementação de uma rede neural para **dígitos escritos a mão**;
 - Implementação da **função de custo para a rede neural**; 
