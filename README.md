@@ -45,3 +45,7 @@
 - Algoritmo de **Forwardpropagation**;
 - Solução numérica para implementação da **derivada parcial da função de custo**;
 - Problemas de **quebra de simetria**;
+
+### Semana 09 (13/11/2020) - Pendente
+
+- Reunião realocada para uma data pós RAE;
