@@ -5,7 +5,7 @@
 
 ### Semana 01 (18/09/2020)
 
-- Apresentação da Metodologia e da Equipe;
+- Apresentação da **Metodologia** e da **Equipe**;
 
 ### Semana 02 [(25/09/2020)](https://github.com/Alyssonmach/presentations-rnr-research-project/tree/master/Semana%2002%20-%2025-09-2020) - Síncrono
 
@@ -48,17 +48,17 @@
 
 ### Semana 09 [(20/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2009%20-%2020-11-2020) - Assíncrona
 
-- Análise de modelos com muitos erros na predição;
-- Diagnóstico do Aprendizado de Máquina;
+- **Análise de modelos** com muitos erros na predição;
+- **Diagnóstico** do Aprendizado de Máquina;
 - Abordagem do Aprendizado de Máquina;
-- Avaliando a Hipótese;
-- Procedimentos em Regressão Linear/Polinomial;
+- **Avaliando** a Hipótese;
+- **Procedimentos** em Regressão Linear/Polinomial;
 - Procedimentos em Regressão Logística;
 - Erro de classificação errada;
-- Dados de Treinamento, Validação e Teste;
-- Matriz de Confusão;
-- Quantidade de dados envolvidas no treinamento;
-- Testando novos algoritmos;
+- Dados de **Treinamento**, **Validação** e **Teste**;
+- **Matriz de Confusão**;
+- **Quantidade de dados** envolvidas no treinamento;
+- **Testando** novos algoritmos;
 
 ### Semana 10 (13/11/2020) - Pendente
 
