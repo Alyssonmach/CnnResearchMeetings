@@ -46,6 +46,21 @@
 - Solução numérica para implementação da **derivada parcial da função de custo**;
 - Problemas de **quebra de simetria**;
 
-### Semana 09 (13/11/2020) - Pendente
+### Semana 09 (20/11/2020) - Assíncrona
+
+- Análise de modelos com muitos erros na predição;
+- Diagnóstico do Aprendizado de Máquina;
+- Abordagem do Aprendizado de Máquina;
+- Avaliando a Hipótese;
+- Procedimentos em Regressão Linear/Polinomial;
+- Procedimentos em Regressão Logística;
+- Erro de classificação errada;
+- Dados de Treinamento, Validação e Teste;
+- Matriz de Confusão;
+- Quantidade de dados envolvidas no treinamento;
+- Testando novos algoritmos;
+
+
+### Semana 10 (13/11/2020) - Pendente
 
 - Reunião realocada para uma data pós RAE;
