@@ -46,7 +46,7 @@
 - Solução numérica para implementação da **derivada parcial da função de custo**;
 - Problemas de **quebra de simetria**;
 
-### Semana 09 [(20/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2009%20-%2020-11-2020) - Assíncrona
+### Semana 09 [(20/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2009%20-%2020-11-2020) - Assíncrono
 
 - **Análise de modelos** com muitos erros na predição;
 - **Diagnóstico** do Aprendizado de Máquina;
@@ -58,8 +58,17 @@
 - Dados de **Treinamento**, **Validação** e **Teste**;
 - **Matriz de Confusão**;
 - **Quantidade de dados** envolvidas no treinamento;
-- **Testando** novos algoritmos;
+- **Testando** novos algoritmos
 
-### Semana 10 (13/11/2020) - Pendente
+### Semana 10 [(27/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2010%20-%2027-11-2020) - Assíncrono
+
+- Analisando **viés vs variância**;
+- **Regularização** e viés/variância;
+- **Revisando os passos** de análise de um modelo de aprendizado de máquina;
+- **Diagnóstico de Redes Neurais**;
+- Análise de **casos voltados para medicina**;
+- Efeitos da **complexidade do modelo**;
+
+### Semana 11 (13/11/2020) - Pendente
 
 - Reunião realocada para uma data pós RAE;
