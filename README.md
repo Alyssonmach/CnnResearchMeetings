@@ -69,7 +69,7 @@
 - Análise de **casos voltados para medicina**;
 - Efeitos da **complexidade do modelo**;
 
-### Semana 11 (13/11/2020) - Assíncrono
+### Semana 11 [(13/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2011%20-%2013-11-2020) - Assíncrono
 
 - **Curso completo de Python**
 - **Referências**: Matthes, Eric, 1972 - **Python crash course : a hands-on, project-based introduction to programming** / by Eric Matthes.
