@@ -1,0 +1,1 @@
+magicians = ['alice', 'david', 'carolina'] 

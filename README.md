@@ -71,4 +71,5 @@
 
 ### Semana 11 (13/11/2020) - Pendente
 
-- Reunião realocada para uma data pós RAE;
+- **Curso completo de Python**
+- ** Referências: Matthes, Eric, 1972 - **Python crash course : a hands-on, project-based introduction to programming** / by Eric Matthes.
