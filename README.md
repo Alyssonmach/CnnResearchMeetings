@@ -73,3 +73,9 @@
 
 - **Curso completo de Python**
 - **Referências**: Matthes, Eric, 1972 - **Python crash course : a hands-on, project-based introduction to programming** / by Eric Matthes.
+
+### Semana 12 [(17/12/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2012%20-%2004-12-2020)
+
+- Análise do **Bias vs Variância** em casos distintos de regressão regularizada;
+- Definindo um método sofisticado para **análise do hiperparâmetro de regularização**;
+- Implementação em Python de modelos de regressão para **análise do limite de estouro em uma barragem**;
