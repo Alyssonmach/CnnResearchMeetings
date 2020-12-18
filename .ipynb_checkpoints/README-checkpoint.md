@@ -5,7 +5,7 @@
 
 ### Semana 01 (18/09/2020)
 
-- Apresentação da Metodologia e da Equipe;
+- Apresentação da **Metodologia** e da **Equipe**;
 
 ### Semana 02 [(25/09/2020)](https://github.com/Alyssonmach/presentations-rnr-research-project/tree/master/Semana%2002%20-%2025-09-2020) - Síncrono
 
@@ -45,3 +45,37 @@
 - Algoritmo de **Forwardpropagation**;
 - Solução numérica para implementação da **derivada parcial da função de custo**;
 - Problemas de **quebra de simetria**;
+
+### Semana 09 [(20/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2009%20-%2020-11-2020) - Assíncrono
+
+- **Análise de modelos** com muitos erros na predição;
+- **Diagnóstico** do Aprendizado de Máquina;
+- Abordagem do Aprendizado de Máquina;
+- **Avaliando** a Hipótese;
+- **Procedimentos** em Regressão Linear/Polinomial;
+- Procedimentos em Regressão Logística;
+- Erro de classificação errada;
+- Dados de **Treinamento**, **Validação** e **Teste**;
+- **Matriz de Confusão**;
+- **Quantidade de dados** envolvidas no treinamento;
+- **Testando** novos algoritmos
+
+### Semana 10 [(27/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2010%20-%2027-11-2020) - Assíncrono
+
+- Analisando **viés vs variância**;
+- **Regularização** e viés/variância;
+- **Revisando os passos** de análise de um modelo de aprendizado de máquina;
+- **Diagnóstico de Redes Neurais**;
+- Análise de **casos voltados para medicina**;
+- Efeitos da **complexidade do modelo**;
+
+### Semana 11 [(13/11/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2011%20-%2013-11-2020) - Assíncrono
+
+- **Curso completo de Python**
+- **Referências**: Matthes, Eric, 1972 - **Python crash course : a hands-on, project-based introduction to programming** / by Eric Matthes.
+
+### Semana 12 [(17/12/2020)](https://github.com/Alyssonmach/presentations-cnn-research-project/tree/master/Semana%2012%20-%2004-12-2020)
+
+- Análise do **Bias vs Variância** em casos distintos de regressão regularizada;
+- Definindo um método sofisticado para **análise do hiperparâmetro de regularização**;
+- Implementação em Python de modelos de regressão para **análise do limite de estouro em uma barragem**;
