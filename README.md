@@ -3,7 +3,7 @@
 Presentations made for the research project meetings.
 ```
 
-## Semana 01 (18/09/2020)
+## Semana 01 (18/09/2020) - Síncrono
 ```
 - Apresentação da Metodologia e da Equipe;
 ```
