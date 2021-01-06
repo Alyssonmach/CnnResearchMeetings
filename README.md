@@ -3,6 +3,11 @@
 Presentations made for the research project meetings.
 ```
 
+## [Artigos](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/Artigos) - Assíncrono
+```
+- Artigos utilizados como referência de estudo no projeto;
+```
+
 ## Semana 01 (18/09/2020) - Síncrono
 ```
 - Apresentação da Metodologia e da Equipe;
