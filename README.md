@@ -95,3 +95,11 @@ Presentations made for the research project meetings.
 - Definindo um método sofisticado para análise do hiperparâmetro de regularização;
 - Implementação em Python de modelos de regressão para análise do limite de estouro em uma barragem;
 ```
+
+## Semana 13 [(08/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/Semana%2014%20-%2008-01-2021) - Síncrono
+```
+- Modelo de regressão logística no estilo de rede neural;
+- Análise de um dataset não estruturado('cat'/'non-cat');
+- Implementação de vetorização utilizando o pacote numpy do python;
+- Apresentação do pacote [pyLearnAlgorithms](https://pypi.org/project/pyLearnAlgorithms/);
+```
