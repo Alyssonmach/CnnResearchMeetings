@@ -101,5 +101,5 @@ Presentations made for the research project meetings.
 - Modelo de regressão logística no estilo de rede neural;
 - Análise de um dataset não estruturado('cat'/'non-cat');
 - Implementação de vetorização utilizando o pacote numpy do python;
-- Apresentação do pacote [pyLearnAlgorithms](https://pypi.org/project/pyLearnAlgorithms/);
+- Apresentação do pacote pyLearnAlgorithms;
 ```
