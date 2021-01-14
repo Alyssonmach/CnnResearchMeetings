@@ -98,3 +98,15 @@ Presentations made for the research project meetings.
 - Implementação de vetorização utilizando o pacote numpy do python;
 - Apresentação do pacote pyLearnAlgorithms;
 ```
+
+## Semana 14 [(15/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/Semana%2014%20-%2015-01-2021)
+```
+- Discussão dos artigos relevantes para o projeto;
+- Redes neurais com uma camada [blobs, gaussian quantiles, noisy circles, planar];
+- Construindo uma rede neural profunda passo a passo;
+- Rede neural profunda para reconhecimento de gatos em imagens;
+- Introdução ao Tensorflow para Machine Learning e Deep Learning;
+- Introdução a redes neurais convolucionais usando o framework TensorFlow;
+- Apresentação de uma aplicação simples usando o streamlit;
+```
+
