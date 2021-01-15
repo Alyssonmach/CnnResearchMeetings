@@ -99,7 +99,7 @@ Presentations made for the research project meetings.
 - Apresentação do pacote pyLearnAlgorithms;
 ```
 
-## Semana 14 [(15/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/Semana%2014%20-%2015-01-2021)
+## Semana 14 [(15/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/Semana%2014%20-%2015-01-2021) - Síncrono
 ```
 - Discussão dos artigos relevantes para o projeto;
 - Redes neurais com uma camada [blobs, gaussian quantiles, noisy circles, planar];
