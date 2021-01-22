@@ -110,7 +110,7 @@ Presentations made for the research project meetings.
 - Apresentação de uma aplicação simples usando o streamlit;
 ```
 
-## Semana 15 [(22/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana15-22-01-2021)
+## Semana 15 [(22/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana15-22-01-2021) - Assíncrono
 ```
 - Finalização do curso de introdução ao Tensorflow;
 - Ajuste de hiperparâmetros: [inicialização, regularização, aproximação numérica para o gradiente descendente, escolha de otimizadores, frameworks];
