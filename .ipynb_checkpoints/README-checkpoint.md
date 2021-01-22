@@ -110,3 +110,11 @@ Presentations made for the research project meetings.
 - Apresentação de uma aplicação simples usando o streamlit;
 ```
 
+## Semana 15 [(22/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana15-22-01-2021)
+```
+- Finalização do curso de introdução ao Tensorflow;
+- Ajuste de hiperparâmetros: [inicialização, regularização, aproximação numérica para o gradiente descendente, escolha de otimizadores, frameworks];
+- Redes neurais convolucionais com Tensorflow: [tamanhos de datasets, aumento de dados, transferência de aprendizagem, problemas de multiclassificação];
+- Apresentação de artigos;
+- Apresentação do dataset para classificação de distúrbios pulmonares;
+```
