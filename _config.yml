@@ -2,5 +2,4 @@ title: CNN Research Meetings
 description: Repository with the archives of the research project on convolutional neural networks. 
 show_downloads: true
 google_analytics:
-#theme: jekyll-theme-cayman
-remote_theme: benc-uk/theme-msdark
+theme: jekyll-theme-cayman
