@@ -3,6 +3,11 @@
 Presentations made for the research project meetings.
 ```
 
+## Análise de Artigos - [Resumos](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/analise-artigos)
+```
+- Levantamento do estado da arte da aprendizagem profunda na radiologia;
+```
+
 ## Semana 01 [(18/09/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana01-18-09-2020) - Síncrono
 ```
 - Apresentação da Metodologia e da Equipe;
@@ -20,7 +25,7 @@ Presentations made for the research project meetings.
 
 ## Semana 04 [(09/10/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana04-09-10-2020) - Síncrono
 ```
-- Funções de Custo;
+- Função de Custo e Gradiente Descendente;
 - Regressão Linear;
 ```
 
@@ -33,12 +38,12 @@ Presentations made for the research project meetings.
 ## Semana 06 [(23/10/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana06-23-10-2020) - Síncrono
 ```
 - Regressão Logística para problemas de Classificação;
-- Regularizador em Regressão Logística;
+- Evitando sobreajuste de dados com regularização;
 ```
 
 ## Semana 07 [(29/10/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana07-30-10-2020) - Assíncrono
 ```
-- Introdução ao modelo de Redes Neurais Artificiais;
+- Introdução a modelos de Redes Neurais Artificiais;
 - Implementação de funções lógicas através de Redes Neurais Artificiais;
 - Noção inicial sobre a arquitetura e funcionamento de Redes Neurais Artificiais;
 - Ideias de configurações das Redes Neurais Artificiais;
@@ -46,11 +51,11 @@ Presentations made for the research project meetings.
 
 ## Semana 08 [(06/11/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana08-05-11-2020) - Síncrono
 ```
-- Implementação de uma rede neural para dígitos escritos a mão;
+- Implementação de uma rede neural para reconhecimento de dígitos escritos a mão;
 - Implementação da função de custo para a rede neural; 
-- Algoritmo de Backpropagation;
 - Algoritmo de Forwardpropagation;
-- Solução numérica para implementação da derivada parcial da função de custo;
+- Algoritmo de Backpropagation;
+- Solução numérica para verificação da derivada parcial na função de custo;
 - Problemas de quebra de simetria;
 ```
 
@@ -62,11 +67,11 @@ Presentations made for the research project meetings.
 - Avaliando a Hipótese;
 - Procedimentos em Regressão Linear/Polinomial;
 - Procedimentos em Regressão Logística;
-- Erro de classificação incorreta;
+- Problemas de classificação incorreta;
 - Dados de Treinamento, Validação e Teste;
 - Matriz de Confusão;
 - Quantidade de dados envolvidas no treinamento;
-- Testando novos algoritmos
+- Testando novos algoritmos;
 ```
 
 ## Semana 10 [(27/11/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana10-27-11-2020) - Assíncrono
@@ -96,7 +101,6 @@ Presentations made for the research project meetings.
 - Modelo de regressão logística no estilo de rede neural;
 - Análise de um dataset não estruturado('cat'/'non-cat');
 - Implementação de vetorização utilizando o pacote numpy do python;
-- Apresentação do pacote pyLearnAlgorithms;
 ```
 
 ## Semana 14 [(15/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana14-15-01-2021) - Síncrono
@@ -112,9 +116,19 @@ Presentations made for the research project meetings.
 
 ## Semana 15 [(22/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana15-22-01-2021) - Assíncrono
 ```
+- Discussão dos artigos relevantes para o projeto;
 - Finalização do curso de introdução ao Tensorflow;
 - Ajuste de hiperparâmetros: [inicialização, regularização, aproximação numérica para o gradiente descendente, escolha de otimizadores, frameworks];
 - Redes neurais convolucionais com Tensorflow: [tamanhos de datasets, aumento de dados, transferência de aprendizagem, problemas de multiclassificação];
-- Apresentação de artigos;
 - Apresentação do dataset para classificação de distúrbios pulmonares;
+```
+
+## Semana 16 [(29/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana16-29-01-2021) - Síncrono
+```
+- Discussão dos artigos relevantes para o projeto;
+- Construção passo a passo de uma rede neural convolucional;
+- Aplicando o modelo previamente construindo para classificação de imagens;
+- Introdução ao framework TensorFlow/Keras;
+- Modelando arquiteturas famosas e analisando desempenhos: [LeNet e ResNet];
+- Apresentação de datasets públicos úteis;
 ```
