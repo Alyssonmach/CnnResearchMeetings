@@ -151,6 +151,17 @@ Presentations made for the research project meetings.
 - Apresentação de datasets públicos úteis;
 ```
 
+## Semana 17 [(05/02/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana17-05-02-2021) - Síncrono
+```
+- Detecção de objetos em imagens - yolo algorítmo;
+- Redes neurais convolucionais para reconhecimento e verificação facial - implementação de uso;
+- Redes neurais convolucionais para transferência de estilo - geração artística;
+- Discussão das bases de dados a serem utilizadas no projeto;
+- Discussão de alguns artigos;
+- Levantamento de ideias para implementações de modelos;
+- Organização do relatório parcial;
+```
+
 ## Referências
 
 - Ng, Andrew. **Machine Learning**. Stanford University. Disponível em: <https://www.coursera.org/learn/machine-learning>. Acesso em 30 jan. 2021.
