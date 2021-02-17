@@ -152,6 +152,7 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 17 [(05/02/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana17-05-02-2021) - Síncrono
+***
 ```
 - Detecção de objetos em imagens - yolo algorítmo;
 - Redes neurais convolucionais para reconhecimento e verificação facial - implementação de uso;
@@ -161,6 +162,17 @@ Presentations made for the research project meetings.
 - Levantamento de ideias para implementações de modelos;
 - Organização do relatório parcial;
 ```
+
+## Repositórios relacionados
+***
+Os repositórios abaixo são a continuação das diversas semanas de estudo listadas neste repositório.
+- [ai-for-medicine-specialization](https://github.com/Alyssonmach/ai-for-medicine-specialization)
+- [cnn-lung-diseases](https://github.com/Alyssonmach/cnn-lung-diseases)
+- [histogram-equalization](https://github.com/Alyssonmach/histogram-equalization)
+- [ml-coursera-python-solutions](https://github.com/Alyssonmach/ml-coursera-python-solutions)
+- [introduction-to-tensorflow](https://github.com/Alyssonmach/introduction-to-tensorflow)
+- [cnn-tensorflow](https://github.com/Alyssonmach/cnn-tensorflow)
+- [deploy-to-heroku-app](https://github.com/Alyssonmach/deploy-to-heroku-app) 
 
 ## Referências
 
