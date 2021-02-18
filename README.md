@@ -1,56 +1,56 @@
 # [CnnResearchMeetings](https://github.com/Alyssonmach/CnnResearchMeetings)
-
+***
 ```
 Presentations made for the research project meetings.
 ```
 
 ## Análise de Artigos - [Resumos](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/analise-artigos)
-
+***
 ```
 - Levantamento do estado da arte da aprendizagem profunda na radiologia;
 ```
 
 ## Semana 01 [(18/09/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana01-18-09-2020) - Síncrono
-
+***
 ```
 - Apresentação da Metodologia e da Equipe;
 ```
 
 ## Semana 02 [(25/09/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana02-25-09-2020) - Síncrono
-
+***
 ```
 - Introdução a Aprendizagem de Máquina;
 ```
 
 ## Semana 03 [(02/10/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana03-02-10-2020) - Síncrono
-
+***
 ```
 - Introdução a Redes Neurais Artificiais;
 ```
 
 ## Semana 04 [(09/10/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana04-09-10-2020) - Síncrono
-
+***
 ```
 - Função de Custo e Gradiente Descendente;
 - Regressão Linear;
 ```
 
 ## Semana 05 [(16/10/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana05-16-10-2020) - Síncrono
-
+***
 ```
 - Regressão Linear;
 - Regressão Linear Múltipla;
 ```
 
 ## Semana 06 [(23/10/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana06-23-10-2020) - Síncrono
-
+***
 ```
 - Regressão Logística para problemas de Classificação;
 - Evitando sobreajuste de dados com regularização;
 ```
 
 ## Semana 07 [(29/10/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana07-30-10-2020) - Assíncrono
-
+***
 ```
 - Introdução a modelos de Redes Neurais Artificiais;
 - Implementação de funções lógicas através de Redes Neurais Artificiais;
@@ -59,7 +59,7 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 08 [(06/11/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana08-05-11-2020) - Síncrono
-
+***
 ```
 - Implementação de uma rede neural para reconhecimento de dígitos escritos a mão;
 - Implementação da função de custo para a rede neural; 
@@ -70,7 +70,7 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 09 [(20/11/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana09-20-11-2020) - Assíncrono
-
+***
 ```
 - Análise de modelos com muitos erros na predição;
 - Diagnóstico do Aprendizado de Máquina;
@@ -86,7 +86,7 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 10 [(27/11/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana10-27-11-2020) - Assíncrono
-
+***
 ```
 - Analisando viés vs variância;
 - Regularização e viés/variância;
@@ -97,13 +97,13 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 11 [(13/11/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana11-13-11-2020) - Assíncrono
-
+***
 ```
 - Curso completo de Python;
 ```
 
 ## Semana 12 [(18/12/2020)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana12-04-12-2020) - Síncrono
-
+***
 ```
 - Análise do Bias vs Variância em casos distintos de regressão regularizada;
 - Definindo um método sofisticado para análise do hiperparâmetro de regularização;
@@ -111,7 +111,7 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 13 [(08/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana13-08-01-2021) - Síncrono
-
+***
 ```
 - Modelo de regressão logística no estilo de rede neural;
 - Análise de um dataset não estruturado('cat'/'non-cat');
@@ -119,7 +119,7 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 14 [(15/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana14-15-01-2021) - Síncrono
-
+***
 ```
 - Discussão dos artigos relevantes para o projeto;
 - Redes neurais com uma camada [blobs, gaussian quantiles, noisy circles, planar];
@@ -131,7 +131,7 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 15 [(22/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana15-22-01-2021) - Assíncrono
-
+***
 ```
 - Discussão dos artigos relevantes para o projeto;
 - Finalização do curso de introdução ao Tensorflow;
@@ -141,7 +141,7 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 16 [(29/01/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana16-29-01-2021) - Síncrono
-
+***
 ```
 - Discussão dos artigos relevantes para o projeto;
 - Construção passo a passo de uma rede neural convolucional;
@@ -152,6 +152,7 @@ Presentations made for the research project meetings.
 ```
 
 ## Semana 17 [(05/02/2021)](https://github.com/Alyssonmach/CnnResearchMeetings/tree/master/semana17-05-02-2021) - Síncrono
+***
 ```
 - Detecção de objetos em imagens - yolo algorítmo;
 - Redes neurais convolucionais para reconhecimento e verificação facial - implementação de uso;
@@ -161,6 +162,17 @@ Presentations made for the research project meetings.
 - Levantamento de ideias para implementações de modelos;
 - Organização do relatório parcial;
 ```
+
+## Repositórios relacionados
+***
+Os repositórios abaixo são a continuação das diversas semanas de estudo listadas neste repositório.
+- [ai-for-medicine-specialization](https://github.com/Alyssonmach/ai-for-medicine-specialization)
+- [cnn-lung-diseases](https://github.com/Alyssonmach/cnn-lung-diseases)
+- [histogram-equalization](https://github.com/Alyssonmach/histogram-equalization)
+- [ml-coursera-python-solutions](https://github.com/Alyssonmach/ml-coursera-python-solutions)
+- [introduction-to-tensorflow](https://github.com/Alyssonmach/introduction-to-tensorflow)
+- [cnn-tensorflow](https://github.com/Alyssonmach/cnn-tensorflow)
+- [deploy-to-heroku-app](https://github.com/Alyssonmach/deploy-to-heroku-app) 
 
 ## Referências
 
