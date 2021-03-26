@@ -173,6 +173,9 @@ Os repositórios abaixo são a continuação das diversas semanas de estudo list
 - [introduction-to-tensorflow](https://github.com/Alyssonmach/introduction-to-tensorflow)
 - [cnn-tensorflow](https://github.com/Alyssonmach/cnn-tensorflow)
 - [deploy-to-heroku-app](https://github.com/Alyssonmach/deploy-to-heroku-app) 
+- [grad-cam-implementation](https://github.com/Alyssonmach/grad-cam-implementation)
+- [lime-algorithm](https://github.com/Alyssonmach/lime-algorithm)
+- [ipynb-tutorial](https://github.com/Alyssonmach/ipynb-tutorial)
 
 ## Referências
 
